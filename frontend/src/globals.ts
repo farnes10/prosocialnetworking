@@ -1,0 +1,6 @@
+export const USER_API_END_POINT = 'http://localhost:5000/api/v1/user'
+export const JOB_API_END_POINT = 'http://localhost:5000/api/v1/job'
+export const APP_API_END_POINT = 'http://localhost:5000/api/v2/application'
+export const EXP_API_END_POINT = 'http://localhost:5000/api/v1/experience'
+export const LANG_API_END_POINT = 'http://localhost:5000/api/v1/language'
+export const EDU_API_END_POINT = 'http://localhost:5000/api/v1/education'
